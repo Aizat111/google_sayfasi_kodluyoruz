@@ -1,0 +1,13 @@
+.container{
+    width: 100%;
+    height: 660px;
+}
+.log{
+    width:100%;
+    height: 113px;
+}
+.googlelogo{
+    width: 352px;
+    height: 113px;
+    margin:0px auto;
+}
