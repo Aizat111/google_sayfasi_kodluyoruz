@@ -6,3 +6,5 @@ tabii ki. Peki size Google'ın ilk versiyonunu gösterebileceğimizi söylesek n
    İnternetteki gelmiş geçmiş bütün web sitelerini görebileceğiniz Wayback Machine adında bir web arşivi bulunmakta. Google 1998 linkinden Google'ın ilk versiyonu nasılmış
 görebilirsiniz. Oldukça garip öyle değil mi? Garip olmasının yanında bu sizin HTML bölümündeki üçüncü ve son ödeviniz olacak. Bu sayfayı tasarlamanızı istiyoruz.
 
+![image](https://user-images.githubusercontent.com/60337657/150696285-5527a324-47fd-43a6-9d13-6ff2015e517c.png)
+
